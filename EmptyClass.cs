@@ -24,7 +24,7 @@ namespace Application
 		}
 
 		public void ouvre(){
-
+			bool estOuvert = false;
 		}
 	}
 }
