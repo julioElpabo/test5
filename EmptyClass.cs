@@ -6,7 +6,9 @@ namespace Application
 	{
 		int score;
 
-		bool estContent= false;
+
+		 bool estContent = false;
+
 
 		public EmptyClass ()
 		{
@@ -16,7 +18,9 @@ namespace Application
 		public void lala(){
 			int test = 5;
 			test += 3;
+
 			test = 0;
+
 		}
 	}
 }
