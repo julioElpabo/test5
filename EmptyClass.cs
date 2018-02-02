@@ -9,6 +9,11 @@ namespace Application
 		public EmptyClass ()
 		{
 		}
+
+
+		public void lala(){
+			
+		}
 	}
 }
 
