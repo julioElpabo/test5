@@ -6,6 +6,8 @@ namespace Application
 	{
 		int score;
 
+		 bool estContent = false;
+
 		public EmptyClass ()
 		{
 		}
