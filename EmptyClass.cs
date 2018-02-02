@@ -12,7 +12,8 @@ namespace Application
 
 
 		public void lala(){
-			
+			int test = 5;
+			test += 3;
 		}
 	}
 }
