@@ -10,11 +10,6 @@ namespace Application
 		public EmptyClass ()
 		{
 		}
-
-
-		public int getLeScore(){
-			return score;
-		}
 	}
 }
 
