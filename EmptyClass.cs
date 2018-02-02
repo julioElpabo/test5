@@ -7,7 +7,7 @@ namespace Application
 		int score;
 
 
-		 bool estContent = false;
+		bool estContent = false;
 
 
 		public EmptyClass ()
@@ -20,6 +20,10 @@ namespace Application
 			test += 3;
 
 			test = 0;
+
+		}
+
+		public void ouvre(){
 
 		}
 	}
